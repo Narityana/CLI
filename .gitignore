@@ -1,0 +1,4 @@
+.vscode/
+.idea/
+.env.local
+/node_modules
