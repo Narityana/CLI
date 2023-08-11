@@ -1,6 +1,6 @@
 ## action="list"
 
-https://monosnap.com/file/zdtVCpyztISIzalaoCvzkjNLafWiRp {:target="_blank"};
+https://monosnap.com/file/zdtVCpyztISIzalaoCvzkjNLafWiRp;
 
 ## action="get"
 
